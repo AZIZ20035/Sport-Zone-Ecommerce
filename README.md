@@ -1,10 +1,10 @@
-# SportZone Ecommerce 🏀⚽🏆
+# SportZone Ecommerce 
 
 **SportZone** is a modern, responsive, and feature-rich E-commerce platform dedicated to sports gear, jerseys, and equipment. Built with pure web technologies to ensure maximum performance and a smooth user experience.
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 -   **Dynamic Image Slider**: Home page features an interactive, autoplay slider for featured products.
 -   **Advanced Filtering & Sorting**:
@@ -34,7 +34,7 @@
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 SportZone/
@@ -52,7 +52,7 @@ SportZone/
 
 ---
 
-## 🛠️ How to run locally
+##  How to run locally
 
 1.  Clone the repository:
     ```bash
@@ -66,9 +66,9 @@ SportZone/
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
-Developed with ❤️ by **Aziz**.
+Developed with ❤️ by **Abdelaziz**.
 
 ---
 
