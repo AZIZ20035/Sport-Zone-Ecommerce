@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Football Cleats",
+    "price": 75,
+    "category": "Shoes",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&h=500&fit=crop",
+    "quantity": 20,
+    "size": "42"
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "price": 90,
+    "category": "Shoes",
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=500&h=500&fit=crop",
+    "quantity": 18,
+    "size": "43"
+  },
+  {
+    "id": 3,
+    "name": "Basketball Shoes",
+    "price": 110,
+    "category": "Shoes",
+    "image": "https://images.unsplash.com/photo-1515955656352-a1fa3ffcd111?w=500&h=500&fit=crop",
+    "quantity": 15,
+    "size": "44"
+  },
+  {
+    "id": 4,
+    "name": "Original FIFA Football",
+    "price": 60,
+    "category": "Balls",
+    "image": "https://images.unsplash.com/photo-1614632537423-1e6c2e7e0aab?w=500&h=500&fit=crop",
+    "quantity": 30,
+    "size": "Standard"
+  },
+  {
+    "id": 5,
+    "name": "NBA Basketball",
+    "price": 55,
+    "category": "Balls",
+    "image": "https://images.unsplash.com/photo-1519861531473-9200262188bf?w=500&h=500&fit=crop",
+    "quantity": 25,
+    "size": "Standard"
+  },
+  {
+    "id": 6,
+    "name": "Pro Tennis Ball Set",
+    "price": 20,
+    "category": "Balls",
+    "image": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=500&h=500&fit=crop",
+    "quantity": 40,
+    "size": "Standard"
+  },
+  {
+    "id": 7,
+    "name": "Training T-Shirt Black",
+    "price": 30,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=500&h=500&fit=crop",
+    "quantity": 35,
+    "size": "M"
+  },
+  {
+    "id": 8,
+    "name": "Running Shorts",
+    "price": 25,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=500&h=500&fit=crop",
+    "quantity": 28,
+    "size": "L"
+  },
+  {
+    "id": 9,
+    "name": "Sports Hoodie Grey",
+    "price": 55,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&h=500&fit=crop",
+    "quantity": 20,
+    "size": "XL"
+  },
+  {
+    "id": 10,
+    "name": "Compression Leggings",
+    "price": 35,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=500&h=500&fit=crop",
+    "quantity": 22,
+    "size": "M"
+  }
+]

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="SportZone — Shop premium sports jerseys, balls, and clothing. Your one-stop shop for all sports gear.">
+    <title>SportZone — Home</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+
+<body>
+    <div id="navbar-container"></div>
+
+    <div id="slider-container"></div>
+
+    <section class="section" id="products-section">
+        <h2 class="section__title">Our <span>Products</span></h2>
+
+        <div class="filters" id="filters">
+            <button class="filters__category-btn active" data-category="All">All</button>
+            <button class="filters__category-btn" data-category="Shoes">Shoes</button>
+            <button class="filters__category-btn" data-category="Balls">Balls</button>
+            <button class="filters__category-btn" data-category="Clothing">Clothing</button>
+
+            <select class="filters__select" id="price-filter">
+                <option value="default">Sort by Price</option>
+                <option value="low-high">Price: Low to High</option>
+                <option value="high-low">Price: High to Low</option>
+            </select>
+
+            <select class="filters__select" id="size-filter">
+                <option value="all">All Sizes</option>
+                <option value="S">S</option>
+                <option value="M">M</option>
+                <option value="L">L</option>
+                <option value="XL">XL</option>
+                <option value="Standard">Standard</option>
+            </select>
+        </div>
+
+        <div class="products-grid" id="products-grid"></div>
+    </section>
+
+    <section class="section" id="contact" style="text-align:center; padding-bottom: 60px;">
+        <h2 class="section__title">Contact <span>Us</span></h2>
+        <p style="color: var(--text-muted); max-width: 500px; margin: 0 auto;">
+            Have questions? Reach out at <strong>support@sportzone.com</strong> or call us at <strong>+1 (555)
+                123-4567</strong>.
+        </p>
+    </section>
+
+    <div id="footer-container"></div>
+
+    <script type="module" src="js/home.js"></script>
+</body>
+
+</html>
