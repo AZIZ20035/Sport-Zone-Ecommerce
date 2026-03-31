@@ -21,7 +21,7 @@ const init = async () => {
     new Slider('#slider-container');
 
     try {
-        const response = await fetch('products.json');
+        const response = await fetch('../products.json');
         const data = await response.json();
         allProducts = createProductList(data);
         renderProducts();

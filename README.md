@@ -24,6 +24,13 @@
 
 ---
 
+## 🎥 Project Demo
+
+You can watch the full demonstration of the project here:  
+👉 [SportZone Demo Video](https://drive.google.com/drive/folders/1P3qigWGp2IH9fjCZi7aN7AEktYVsdLiF?usp=sharing)
+
+---
+
 ## 🚀 Technologies Used
 
 -   **HTML5**: Semantic structure.
@@ -39,15 +46,14 @@
 ```text
 SportZone/
 ├── css/            # Stylesheets
+├── html/           # All HTML pages
 ├── js/
 │   ├── components/ # Reusable UI components (Navbar, Slider, Footer)
 │   ├── models/     # Data models (Product, Cart, User)
 │   ├── utils/      # Utility helpers
 │   └── ...         # Page-specific scripts
 ├── products.json   # Product database
-├── home.html       # Main landing page
-├── cart.html       # Shopping cart page
-└── ...             # Authentication and Details pages
+└── index.html      # Entry point (Redirects to html/register.html)
 ```
 
 ---
